@@ -1,7 +1,6 @@
 # Memorization Index
 
-Official implementation and artifacts for the accompanying paper (arXiv submission pending).
-The paper PDF is included in this repo: `data_copying.pdf`.
+Official implementation and artifacts for the paper 'A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models'
 
 ## Paper
 - Title: A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models
@@ -71,10 +70,6 @@ Spine dataset example:
 ```bash
 python scripts/run_final_models.py --dataset spine --spine-root data/spine_mri --dup-levels 0.05,0.15
 ```
-
-## Artifacts
-- Paper PDF: `data_copying.pdf`
-- Example result tables: `outputs/results/contaminated_sets_0.csv`, `outputs/results/contaminated_sets_10.csv`, `outputs/results/contaminated_sets_50.csv`
 
 ## Notes
 - Large data, outputs, and weights are excluded via `.gitignore`.
