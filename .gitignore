@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.ipynb_checkpoints/
+*.ipynb
+.env
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Data, outputs, and weights
+data/
+outputs/
+pretrained_weights/
+models/mricore/
+*.pt
+*.pth
+*.npy
