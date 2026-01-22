@@ -4,9 +4,8 @@ Official implementation and artifacts for the accompanying paper (arXiv submissi
 The paper PDF is included in this repo: `data_copying.pdf`.
 
 ## Paper
-- Title: *TBD*
-- Authors: *TBD*
-- PDF: `data_copying.pdf`
+- Title: A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models
+- Authors: Yash Deo$ ,Yan Jia,Toni Lassila,Victoria J Hodge,Alejandro F Frangi,Chenghao Qian,Siyuan Kang,Ibrahim Habli
 - arXiv: *coming soon*
 
 If you build on this work, please use the citation section at the bottom.
