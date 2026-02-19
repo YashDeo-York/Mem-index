@@ -78,6 +78,13 @@ python scripts/run_final_models.py --dataset spine --spine-root data/spine_mri -
 ## Citation
 If you use this code, please cite the accompanying paper:
 
-```bibtex
-TBD
+@misc{deo2026calibratedmemorizationindexmi,
+      title={A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models}, 
+      author={Yash Deo and Yan Jia and Toni Lassila and Victoria J Hodge and Alejandro F Frang and Chenghao Qian and Siyuan Kang and Ibrahim Habli},
+      year={2026},
+      eprint={2602.13066},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.13066}, 
+}
 ```
