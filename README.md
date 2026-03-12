@@ -5,7 +5,7 @@ Official implementation and artifacts for the paper 'A Calibrated Memorization I
 ## Paper
 - Title: A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models
 - Authors: Yash Deo$ ,Yan Jia,Toni Lassila,Victoria J Hodge,Alejandro F Frangi,Chenghao Qian,Siyuan Kang,Ibrahim Habli
-- arXiv: *coming soon*
+- arXiv: https://arxiv.org/pdf/2602.13066
 
 If you build on this work, please use the citation section at the bottom.
 
